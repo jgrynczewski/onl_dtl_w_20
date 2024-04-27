@@ -1,0 +1,210 @@
+{
+  "clients": [
+    {
+      "guid": "68c625a8-8558-4e8d-bd07-dccf028aaf9a",
+      "isActive": false,
+      "balance": "$3,911.63",
+      "picture": "http://placehold.it/32x32",
+      "age": 37,
+      "eyeColor": "brown",
+      "name": "Bennett Walter",
+      "gender": "male",
+      "company": "ZENSURE",
+      "email": "bennettwalter@zensure.com",
+      "phone": "+48 549 572 114",
+      "address": "542 Reeve Place, Allensworth, Idaho, 4192",
+      "about": "Amet consectetur amet eiusmod laborum cillum aute tempor Lorem sint consectetur occaecat eiusmod. In quis sunt consequat excepteur dolor consequat sint consequat dolor elit nostrud nisi excepteur. Dolore nisi proident ullamco ut proident aute labore officia eu velit proident aute tempor. Est quis anim ut irure est qui sunt enim consequat fugiat ex deserunt sunt. Ex duis ea aliqua elit et. Ut quis elit in nulla labore eu dolor cupidatat ut nisi sit velit eu ut. Eiusmod officia commodo ex in nostrud.\r\n",
+      "registered": "2020-12-06T07:46:47 -01:00",
+      "latitude": 9.469153,
+      "longitude": 117.293317,
+      "tags": [
+        "occaecat",
+        "irure",
+        "dolore",
+        "eu",
+        "culpa",
+        "incididunt",
+        "adipisicing"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Perez Thornton"
+        },
+        {
+          "id": 1,
+          "name": "Willis Berry"
+        },
+        {
+          "id": 2,
+          "name": "Malinda Nunez"
+        }
+      ]
+    },
+    {
+      "guid": "6c8202a0-a6e6-47af-ac1a-ba5b4feadf60",
+      "isActive": false,
+      "balance": "$1,442.29",
+      "picture": "http://placehold.it/32x32",
+      "age": 33,
+      "eyeColor": "green",
+      "name": "Alexandra Garrison",
+      "gender": "female",
+      "company": "FARMAGE",
+      "email": "alexandragarrison@farmage.com",
+      "phone": "+1 (956) 578-2293",
+      "address": "572 Adelphi Street, Trucksville, Wyoming, 6804",
+      "about": "Fugiat velit officia veniam sunt ea eu. Consequat consectetur qui esse cillum. Ex laboris et ad voluptate do voluptate ipsum amet velit. Aliquip nostrud duis velit nulla laborum ipsum ut fugiat. Aute nostrud cillum adipisicing sit enim nisi adipisicing dolore cillum veniam qui incididunt culpa.\r\n",
+      "registered": "2020-05-22T03:23:06 -02:00",
+      "latitude": 39.309021,
+      "longitude": 44.935689,
+      "tags": [
+        "adipisicing",
+        "tempor",
+        "sit",
+        "eiusmod",
+        "officia",
+        "aliquip",
+        "ea"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Mcguire Rosales"
+        },
+        {
+          "id": 1,
+          "name": "Vonda Lara"
+        },
+        {
+          "id": 2,
+          "name": "Floyd Wall"
+        }
+      ]
+    },
+    {
+      "guid": "b9d382d1-2ae9-4499-a021-6a5b35155ede",
+      "isActive": false,
+      "balance": "$3,361.84",
+      "picture": "http://placehold.it/32x32",
+      "age": 30,
+      "eyeColor": "green",
+      "name": "Jane Nash",
+      "gender": "female",
+      "company": "ECRATER",
+      "email": "janenash@ecrater.com",
+      "phone": "+1 (850) 595-2594",
+      "address": "942 Story Court, Nogal, Massachusetts, 665",
+      "about": "Sint eu labore est qui. Est dolor dolore do laboris culpa eiusmod dolor ullamco ea irure in esse. Non adipisicing quis enim mollit. In sunt do eu ad culpa et. Laboris voluptate exercitation deserunt amet dolor non incididunt incididunt nulla.\r\n",
+      "registered": "2018-06-30T06:42:49 -02:00",
+      "latitude": -52.908724,
+      "longitude": 95.765699,
+      "tags": [
+        "esse",
+        "aliquip",
+        "cupidatat",
+        "labore",
+        "minim",
+        "dolore",
+        "proident"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Fran Ward"
+        },
+        {
+          "id": 1,
+          "name": "Mcgowan Mosley"
+        },
+        {
+          "id": 2,
+          "name": "Leanne Horne"
+        }
+      ]
+    },
+    {
+      "guid": "a5406784-ca1e-44f4-a6a7-e6ad123680e5",
+      "isActive": false,
+      "balance": "$2,958.51",
+      "picture": "http://placehold.it/32x32",
+      "age": 23,
+      "eyeColor": "blue",
+      "name": "Edwina Whitley",
+      "gender": "female",
+      "company": "BARKARAMA",
+      "email": "edwinawhitley@barkarama.com",
+      "phone": "+1 (886) 456-3827",
+      "address": "888 Maujer Street, Ezel, Hawaii, 7415",
+      "about": "Esse nostrud eiusmod fugiat amet esse proident fugiat cupidatat labore eiusmod. Nulla et mollit do sunt elit adipisicing voluptate aliquip sint cupidatat velit eiusmod adipisicing exercitation. Culpa labore id veniam eu cillum. Amet velit dolore reprehenderit sunt dolore tempor velit ut veniam esse culpa Lorem.\r\n",
+      "registered": "2016-12-08T07:37:01 -01:00",
+      "latitude": 48.935139,
+      "longitude": 169.440289,
+      "tags": [
+        "est",
+        "consequat",
+        "labore",
+        "ex",
+        "Lorem",
+        "laboris",
+        "nostrud"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Desiree Bray"
+        },
+        {
+          "id": 1,
+          "name": "Nadia Snow"
+        },
+        {
+          "id": 2,
+          "name": "Leann Cunningham"
+        }
+      ]
+    },
+    {
+      "guid": "2325ae08-94c3-43f4-8fee-ea6917ea1e82",
+      "isActive": true,
+      "balance": "$3,148.31",
+      "picture": "http://placehold.it/32x32",
+      "age": 38,
+      "eyeColor": "green",
+      "name": "Burris Rodriquez",
+      "gender": "male",
+      "company": "GORGANIC",
+      "email": "burrisrodriquez@gorganic.com",
+      "phone": "+1 (857) 463-3165",
+      "address": "668 Kiely Place, Olney, Tennessee, 2269",
+      "about": "Ipsum irure dolore eiusmod nostrud et aliquip ea anim consectetur aliquip duis eu. Et qui qui sit eu fugiat enim sint. Qui et Lorem voluptate proident. Elit proident voluptate dolore aliqua nulla aliquip et exercitation occaecat consequat enim enim voluptate eiusmod.\r\n",
+      "registered": "2019-05-03T08:51:23 -02:00",
+      "latitude": -69.41408,
+      "longitude": -33.37304,
+      "tags": [
+        "qui",
+        "labore",
+        "consequat",
+        "enim",
+        "magna",
+        "aliquip",
+        "minim",
+        "adipisicing"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Antoinette Brennan"
+        },
+        {
+          "id": 1,
+          "name": "Horn Powell"
+        },
+        {
+          "id": 2,
+          "name": "Gilliam Hooper"
+        }
+      ]
+    }
+  ]
+}
